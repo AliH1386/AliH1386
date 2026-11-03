@@ -1,4 +1,4 @@
-# Hi there, I'm Ali 👋
+# Hi there, I'm Ali
 
 **Front-End Developer | React.js Developer | Aspiring Full-Stack Developer**
 
@@ -8,7 +8,7 @@ I enjoy building modern, responsive, and user-friendly web applications. My main
 
 I believe in learning by building, solving problems, and continuously improving my skills.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Front-End Development
 
@@ -34,7 +34,7 @@ I believe in learning by building, solving problems, and continuously improving 
 - Back-End Development
 - Full-Stack Web Development
 
-## 🎯 What I'm Working On
+## What I'm Working On
 
 - Building modern web applications with React.js
 - Developing a full-stack educational platform using React and Strapi
@@ -42,13 +42,13 @@ I believe in learning by building, solving problems, and continuously improving 
 - Learning Back-End Development with Node.js
 - Exploring new technologies and better ways to write clean, maintainable code
 
-## 📌 Featured Projects
+## Featured Projects
 
 - **Educational Platform:** A Persian educational website built with React, Tailwind CSS, and Strapi.
 - **Web Development Projects:** Responsive and interactive applications built with modern front-end technologies.
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always interested in learning, collaborating, and building meaningful projects.
 
-Thanks for visiting my profile! ⭐
+Thanks for visiting my profile!
